@@ -4,7 +4,7 @@ from tkinter.constants import DISABLED, NORMAL
 import tkinter as tk
 
 # Set up OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = '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'
 
 def ask_openai(question):
     model_engine = "text-davinci-003"
